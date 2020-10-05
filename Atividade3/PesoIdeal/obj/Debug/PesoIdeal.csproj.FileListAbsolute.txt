@@ -1,0 +1,10 @@
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csprojAssemblyReference.cache
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Form1.resources
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.cache
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.CoreCompileInputs.cache
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.pdb
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.exe
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\LP 2 - C#\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.pdb
