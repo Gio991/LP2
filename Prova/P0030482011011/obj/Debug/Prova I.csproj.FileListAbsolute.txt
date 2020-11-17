@@ -1,0 +1,10 @@
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\obj\Debug\Prova I.csprojAssemblyReference.cache
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\obj\Debug\Prova_I.Form1.resources
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\obj\Debug\Prova_I.Properties.Resources.resources
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\obj\Debug\Prova I.csproj.GenerateResource.cache
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\obj\Debug\Prova I.csproj.CoreCompileInputs.cache
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\bin\Debug\Prova I.exe.config
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\bin\Debug\Prova I.exe
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\bin\Debug\Prova I.pdb
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\obj\Debug\Prova I.exe
+D:\Gio91\OneDrive\00 - Fatec ADS 2 sem\Prova I\Prova I\obj\Debug\Prova I.pdb
